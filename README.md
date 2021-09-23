@@ -13,5 +13,7 @@ Usamos [github](https://github.com) para el versionado. Para todas las versiones
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/orgs/HomeWorkMx/people) quíenes han participado en este proyecto. 
 
+* **referencia de código:[vuetify/calendario](https://bluuweb.github.io/vuetify/calendario/#instalacion-vue-cli)**
+
 
 ---
